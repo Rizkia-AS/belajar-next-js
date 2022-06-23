@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.title {
+  background-color: aquamarine;
+}
+
+.item {
+  margin-bottom: 10px;
+  max-width: 600px;
+  background-color: cadetblue;
+  border: 1px solid black;
+}
